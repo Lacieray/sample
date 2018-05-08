@@ -1,0 +1,22 @@
+.nav{
+    background-color: blueviolet;
+    height: 80px;
+    padding-left: 20px;
+   
+}
+
+.nav a{
+    padding-right: 20px;
+}
+.nav a:link{
+    color: white;
+    text-decoration: none;
+}
+
+.nav a:hover{
+    color: red;
+}
+
+.nav ul li a:active{
+    color: yellow;
+}
